@@ -11,3 +11,11 @@ body {
 .text {
     color: #fff;
 }
+
+.card {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.16);
+    padding: 20px;
+    background: white;
+    height: 150px;
+    width: 150px;
+}
